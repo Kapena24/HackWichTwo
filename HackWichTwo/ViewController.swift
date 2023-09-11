@@ -28,4 +28,4 @@ thirdString = firstString + secondString
     }
     
 }
-
+// end of part one moving to part two
