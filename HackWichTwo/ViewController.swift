@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
 // Declare and assign the first two variables
 let firstString = "Hello Xcode, "
-let secondString = "I finally understand."
+let secondString = "and I finally understand."
 
 // Declare the third variable as an empty string
 var thirdString = ""
